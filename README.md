@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daksh-Madaan
-- 👀 I’m interested in Python
+- 👀 Python Programmer
 - 🌱 He/Him
 
 <!---
